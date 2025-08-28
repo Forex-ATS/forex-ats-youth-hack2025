@@ -20,6 +20,3 @@ Forex ATS is an automated trading system for the foreign exchange market. We wa
 - `style.css` – basic styling for the webpage.
 - `script.js` – placeholder JavaScript for future interactivity.
 
-## Demo Video
-A short demo video generated with Sora illustrates the concept:
-[Algorithm Profits Surge](https://sora.chatgpt.com/g/gen_01k3s6hwjmfhdbayytebx1242t)
